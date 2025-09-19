@@ -28,7 +28,7 @@ from telebot import types
 # 🔧 KONFIGURASI
 # ==============================
 TOKEN = "8210971207:AAGyKHLKgYixobM0Ww2oNZN9sR5J6fs1SfQ"
-ALLOWED_USER_IDS = [-1003087122669]
+ALLOWED_USER_IDS = [231997940]
 HOSTNAME = platform.node()
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
